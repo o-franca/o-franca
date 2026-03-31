@@ -1,18 +1,18 @@
 # Hi, I'm J.P. Franca
 
-**Marketing & Communications Consultant | No-Code Builder | Based in Cork, Ireland**
+**AI Product Builder & Communications Strategist | Cork, Ireland**
 
-From leading PR campaigns for Samsung and Bayer in Latin America to building tech platforms in Ireland — I help businesses grow through strategic communications and digital innovation.
+I build products with AI and know how to sell them. I shipped 2 platforms to iOS and Android without a programming degree — just AI tools, no-code platforms, and relentless problem-solving.
 
 ---
 
 ### What I Do
 
-- **Communications & PR** — Corporate comms, press relations, crisis management, media kits
-- **Digital Marketing** — Google Ads, Meta Ads, LinkedIn Ads, SEO, email marketing
-- **No-Code Development** — WordPress, Vercel, Supabase, Capacitor (built 2 platforms)
-- **Content Creation** — Video production, copywriting, newsletters, social media
-- **Telemarketing & Sales** — B2B outreach, CRM management, 87-93% quality scores
+- **AI Product Building** — Shipped Dine With Me (iOS/Android) and Media Training AI using AI-assisted development
+- **Communications & PR** — 8+ years: Samsung, Bayer, BH Airport, Aberje Award winner
+- **Product Marketing** — Google Ads, growth strategy, go-to-market execution
+- **No-Code Development** — WordPress, Vercel, Supabase, Capacitor, Xcode, Android Studio
+- **Content & Storytelling** — Video production, copywriting, 2 published books, 1 film
 
 ---
 
