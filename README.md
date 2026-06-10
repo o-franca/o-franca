@@ -21,6 +21,7 @@ I build products with AI and know how to sell them. I shipped 3 platforms — Di
 | Project | Description |
 |---------|-------------|
 | [Liveloop](https://www.liveloop.space) | Interactive social platform — every post is a tiny app you can play, save, and remix. Launched with an AI-produced TikTok campaign |
+| [liveloop-templates](https://github.com/o-franca/liveloop-templates) | Open-source TypeScript templates powering Liveloop's Create flow — MIT licensed, contributions welcome |
 | [Dine With Me](https://www.dinewithme.org) | Social dining platform — iOS & Android, Stripe payments, real-time chat |
 | [Media Training AI](https://mediatraining.ai) | AI-powered public speaking coach with Google Ads campaigns |
 | [Portfolio](https://www.ofmediatech.com) | 23 real projects from corporate PR to film production |
