@@ -23,7 +23,7 @@ I build products with AI and know how to sell them. I shipped 3 platforms — Di
 | [Liveloop](https://www.liveloop.space) | Interactive social platform — every post is a tiny app you can play, save, and remix. Launched with an AI-produced TikTok campaign |
 | [Dine With Me](https://www.dinewithme.org) | Social dining platform — iOS & Android, Stripe payments, real-time chat |
 | [Media Training AI](https://mediatraining.ai) | AI-powered public speaking coach with Google Ads campaigns |
-| [Portfolio](https://mediaconsultant.ie) | 23 real projects from corporate PR to film production |
+| [Portfolio](https://www.ofmediatech.com) | 23 real projects from corporate PR to film production |
 | [A Brief Experience in Cork](https://youtube.com/watch?v=vqwLnNJWJAs) | Independent film — 30+ actors, 6 sponsors, premiere for 60 |
 
 ---
@@ -47,7 +47,7 @@ English | Portuguese | Spanish
 
 ### Let's Connect
 
-- **Portfolio:** [mediaconsultant.ie](https://mediaconsultant.ie)
+- **Portfolio:** [ofmediatech.com](https://www.ofmediatech.com)
 - **LinkedIn:** [joaopaulofranca](https://www.linkedin.com/in/joaopaulofranca/)
 - **Email:** oconnorfranca@gmail.com
 - **WhatsApp:** [+353 83 080 5289](https://wa.me/353830805289)
