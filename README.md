@@ -18,13 +18,30 @@ I build products with AI and know how to sell them. I shipped 3 platforms — Di
 
 ### Featured Projects
 
-| Project | Description |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.liveloop.space"><img src="assets/liveloop.webp" alt="Liveloop — interactive social platform" /></a>
+      <br/><b><a href="https://www.liveloop.space">Liveloop</a></b>
+      <br/><sub>Social network where every post is a tiny app — play, save, remix. Next.js, React, Supabase. Launched with an AI-produced TikTok campaign.</sub>
+      <br/><sub><a href="https://github.com/o-franca/liveloop-templates">→ templates open for contributions</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.dinewithme.org"><img src="assets/dinewithme.webp" alt="Dine With Me — social dining app" /></a>
+      <br/><b><a href="https://www.dinewithme.org">Dine With Me</a></b>
+      <br/><sub>Social dining platform — iOS & Android, Stripe payments, real-time chat, push notifications.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://mediatraining.ai"><img src="assets/MediaTraining.webp" alt="Media Training AI — public speaking coach" /></a>
+      <br/><b><a href="https://mediatraining.ai">Media Training AI</a></b>
+      <br/><sub>AI-powered public speaking coach with real-time feedback and Google Ads campaigns.</sub>
+    </td>
+  </tr>
+</table>
+
+| More | |
 |---------|-------------|
-| [Liveloop](https://www.liveloop.space) | Interactive social platform — every post is a tiny app you can play, save, and remix. Launched with an AI-produced TikTok campaign |
-| [liveloop-templates](https://github.com/o-franca/liveloop-templates) | Open-source TypeScript templates powering Liveloop's Create flow — MIT licensed, contributions welcome |
-| [Dine With Me](https://www.dinewithme.org) | Social dining platform — iOS & Android, Stripe payments, real-time chat |
-| [Media Training AI](https://mediatraining.ai) | AI-powered public speaking coach with Google Ads campaigns |
-| [Portfolio](https://www.ofmediatech.com) | 23 real projects from corporate PR to film production |
+| [Portfolio](https://www.ofmediatech.com) | 25+ real projects from corporate PR to film production |
 | [A Brief Experience in Cork](https://youtube.com/watch?v=vqwLnNJWJAs) | Independent film — 30+ actors, 6 sponsors, premiere for 60 |
 
 ---
