@@ -27,8 +27,8 @@ I build products with AI and know how to sell them. I shipped 3 platforms — Di
       <br/><sub><a href="https://github.com/o-franca/liveloop-templates">→ templates open for contributions</a></sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://www.dinewithme.org"><img src="assets/dinewithme.webp" alt="Dine With Me — social dining app" /></a>
-      <br/><b><a href="https://www.dinewithme.org">Dine With Me</a></b>
+      <a href="https://dinecompetitions.com/en"><img src="assets/dinewithme.webp" alt="Dine With Me — social dining app" /></a>
+      <br/><b><a href="https://dinecompetitions.com/en">Dine With Me</a></b>
       <br/><sub>Social dining platform — iOS & Android, Stripe payments, real-time chat, push notifications.</sub>
     </td>
     <td align="center" width="33%">
