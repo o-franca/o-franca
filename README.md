@@ -2,13 +2,13 @@
 
 **AI Product Builder, Video & Content Creator | Cork, Ireland**
 
-I build products with AI and know how to sell them. I shipped 3 platforms — Dine With Me, Media Training AI, and Liveloop — without a programming degree. Just AI tools, no-code platforms, and relentless problem-solving.
+I build products with AI and know how to sell them. I shipped 4 platforms — PhoneBot, Dine With Me, Media Training AI, and Liveloop — without a programming degree. Just AI tools, no-code platforms, and relentless problem-solving.
 
 ---
 
 ### What I Do
 
-- **AI Product Building** — Shipped Dine With Me (iOS/Android), Media Training AI, and Liveloop using AI-assisted development
+- **AI Product Building** — Shipped PhoneBot (AI receptionist), Dine With Me (iOS/Android), Media Training AI, and Liveloop using AI-assisted development
 - **Communications & PR** — 8+ years: Samsung, Bayer, BH Airport, Aberje Award winner
 - **Product Marketing** — Google Ads, growth strategy, go-to-market execution
 - **No-Code Development** — WordPress, Vercel, Supabase, Capacitor, Xcode, Android Studio
@@ -20,18 +20,23 @@ I build products with AI and know how to sell them. I shipped 3 platforms — Di
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
+      <a href="https://phonebot.ie/"><img src="assets/phonebot.webp" alt="PhoneBot — AI phone answering for Irish small businesses" /></a>
+      <br/><b><a href="https://phonebot.ie/">PhoneBot</a></b>
+      <br/><sub>AI receptionist for Irish small businesses — answers calls 24/7, captures every enquiry and sends the lead to WhatsApp, email & CRM. Vapi, Supabase, Stripe.</sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://www.liveloop.space"><img src="assets/liveloop.webp" alt="Liveloop — interactive social platform" /></a>
       <br/><b><a href="https://www.liveloop.space">Liveloop</a></b>
       <br/><sub>Social network where every post is a tiny app — play, save, remix. Next.js, React, Supabase. Launched with an AI-produced TikTok campaign.</sub>
       <br/><sub><a href="https://github.com/o-franca/liveloop-templates">→ templates open for contributions</a></sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://dinecompetitions.com/en"><img src="assets/dinewithme.webp" alt="Dine With Me — social dining app" /></a>
       <br/><b><a href="https://dinecompetitions.com/en">Dine With Me</a></b>
       <br/><sub>Social dining platform — iOS & Android, Stripe payments, real-time chat, push notifications.</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://mediatraining.ai"><img src="assets/MediaTraining.webp" alt="Media Training AI — public speaking coach" /></a>
       <br/><b><a href="https://mediatraining.ai">Media Training AI</a></b>
       <br/><sub>AI-powered public speaking coach with real-time feedback and Google Ads campaigns.</sub>
